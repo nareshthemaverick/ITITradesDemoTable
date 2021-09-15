@@ -92,6 +92,12 @@ img {
   text-align:right;
 }
 
+.sub-rows-div {
+  height: 38px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
 @media only screen and (max-width: 1000px) {
   /* For mobile phones: */
   [class="tablediv"] {
