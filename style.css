@@ -92,10 +92,8 @@ img {
   text-align:right;
 }
 
-.sub-rows-div {
-  height: 38px;
-  display: table-cell;
-  vertical-align: middle;
+.sub-rows-td {
+  border-top: none;
 }
 
 @media only screen and (max-width: 1000px) {

@@ -1,3 +1,5 @@
 $(document).ready(function() {
-    $('#trade').DataTable();
+    $('#trade').DataTable( {
+        "order": [],
+    } );
 } );
